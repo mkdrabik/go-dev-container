@@ -1,3 +1,3 @@
-#Go dev container
+# Go dev container
 
-[Link to tutorial](https://mkdrabik.github.io/comp423-course-notes/)
+[Link to tutorial](https://mkdrabik.github.io/comp423-course-notes/tutorials/go-setup/)
